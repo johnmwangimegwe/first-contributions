@@ -132,6 +132,7 @@
 - [Devam Desai](https://github.com/Shaaaark126)
 - [Himanshu Singh Aswal](https://github.com/LAWSA07)
 - [Danielle-Higgins](https://github.com/Danielle-Higgins)
+- [Goodness Jakaza Chauke](https://github.com/Jakaza) HEllo everyone
 - [Ye Lin Ko](https://github.com/yelinko20)
 - [Devan Parekh](https://github.com/devpar)
 - [doing1024](https://github.com/doing1024)
@@ -2240,6 +2241,7 @@ rohitmhnty
 - [Ujaved931](https://github.com/ujaved931/)
 - [ArcXeon](https://github.com/ArcXeon/)
 - [allaert](https://github.com/allaert/)
+- [WrenOswin](https://github.com/WrenOswin) Excited to work on open source!
 - [Tin](https://github.com/Tincando)
 - [Wilson](https://github.com/wilwu2168)
 - [Krishna](https://github.com/Krishna01work)
@@ -3090,3 +3092,4 @@ rohitmhnty
 - [Atilla Ertas](https://github.com/atillaertas1)
 - [Rahul Shendre](https://github.com/rahulshendre) let's do it
 - [John Mwangi](https://github.com/johnmwangimegwe)
+- [Gichia Muiruri](https://github.com/itsgichia) let's do it
